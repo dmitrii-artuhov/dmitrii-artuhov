@@ -18,7 +18,7 @@
 Bachelor of  Science in Computer Science
 
 - **Constructor (formerly Jacobs) University Bremen** (CUB), Feb 2023 - Jun 2024
-- **Higher School of Economics in Saint Petersburg** (HSE Spb), Sep 2021 - Jan 2023
+- **Higher School of Economics in Saint Petersburg** (HSE Spb), Sep 2021 - Jan 2023, transferred to CUB
 
 ## 👩🏻‍💻 Work
 
