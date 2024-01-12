@@ -48,21 +48,20 @@ Bachelor of  Science in Computer Science
 
 - ❗ [Devscribe](https://github.com/Giga-Chad-LLC/Devscribe): *(this one is Kotlin project, the rest are in Java)* a 3rd year semester project at CUB in IDE development course. It is a simple IDE with such features as: text modification, shortcuts, mouse navigation, in-file searching, virtual file system (VFS), syntax highlighting for a custom programming language, text scaling and theme switching. It was a project of 2 people, my part was mostly VFS and UI components.
 
-- [Java Symbols Counter](https://github.com/dmitrii-artuhov/symbols-counter-intellij-plugin): Intellij IDEA plugin for counting symbols (classes, methods per each file) in java projects. It was a the selection task for one of the JetBrains internships, I crunched pretty hard on it in short time, since I have never worked with IDEA plugins and Swift UI components before.  
+- [Java Symbols Counter](https://github.com/dmitrii-artuhov/symbols-counter-intellij-plugin): Intellij IDEA plugin for counting symbols (classes, methods per each file) in java projects. It was an assessment for one of the JetBrains internships. I crunched pretty hard on it in a short period of time, since I have never worked with IDEA plugins and Swing UI components before.  
 
 - ❗ [Enchanted Towers](https://github.com/Giga-Chad-LLC/Enchanted-Towers): 2nd year semester project at HSE Spb, an android game in which players compete by capturing and holding towers on a real map by casting spells on their phone screens (drawing predefined curves with fingers) or on actual paper (by taking photo of them) and destroying protection walls of towers (thus, capturing the foe's tower). It was a team project of 3 people. My duties were: implementation of canvas interactions (eg. drawing with finger, sending, and receiving curves (spells) via network using gRPC), pattern matching using Hausdorff metric, OpenCV contours extraction from photo, and attacking towers & spectating other players attacks in real time.
 
 - ❗ [Mini Git](https://gist.github.com/dmitrii-artuhov/f7c30137703acb7ca00408be7a3c10e8): one of the 2nd year labs at HSE Spb, I implemented git replica with such functionality: staging files, commiting, logging, branching and checkouting. Implemented resources management according to [git internals specification](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) with tree-like files dependencies.
 
-- [Threadpool](https://gist.github.com/dmitrii-artuhov/b6b3b66f99ebb6026451df0255459037): one of the 2nd year labs at HSE Spb which is a custom threadpool implementation with *LightFuture* task-class that allows to register execution of a consequent task after completion of the
-submitted one
+- [Threadpool](https://gist.github.com/dmitrii-artuhov/b6b3b66f99ebb6026451df0255459037): one of the 2nd year labs at HSE Spb which is a custom threadpool implementation with *LightFuture* task-class that allows to register execution of a consequent task after completion of the submitted one.
 
 
 ### 🍋 Javascript
 
-- ❗ [Task Manager](https://github.com/dmitrii-artuhov/TaskManager): a complete Trello clone written in MERN stack (MongoDB, ExpressJS, React, NodeJS) with users authentication, boards management, invitation system, and ability for multiple clients to work simultaneously on a shared board. Since Heroku shut down their free hosting plan now application is not online. When I have the mood, I rehost it somewhere...
+- ❗ [Task Manager](https://github.com/dmitrii-artuhov/TaskManager): a complete Trello clone written in MERN stack (MongoDB, ExpressJS, React, NodeJS) with users authentication, boards management, invitation system, and ability for multiple clients to work simultaneously on a shared board. Since Heroku shut down their free hosting plan, the application is not online. When I have the mood, I rehost it somewhere else...
 
-- [Movie Telegram Bot](https://github.com/dmitrii-artuhov/telegram-bot): a simple tg bot that uses IMDB API for searching movies info. I also implemented watchlist functionality: user can save movies they like for later reference.  
+- [Movie Telegram Bot](https://github.com/dmitrii-artuhov/telegram-bot): a simple telegram bot that uses IMDB API for searching movies info. I also implemented watchlist functionality using MongoDB: user can save movies they like for later reference.  
 
 
 ### 🐍 Python
