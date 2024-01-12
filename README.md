@@ -3,8 +3,8 @@
 ## 👀 About me
 
 - 🔮 Kotlin developer @ **JetBrains**
-- ✨ C++ enjoyer
 - 💼 [Link to my CV](https://drive.google.com/file/d/1OS9tyvihp2dLTVcszTX-gm8qA9iQDXzw/view?usp=sharing)
+- ✨ C++ enjoyer
 - 🗿 [Giga-Chad LLC](https://github.com/Giga-Chad-LLC) member
 
 ## 🤝 Contact
