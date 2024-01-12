@@ -24,7 +24,7 @@ Bachelor of  Science in Computer Science
 
 > Most relevant work experience is listed in my CV above.
 
-## 🛠️ My projects
+## 🛠️ Projects
 
 > Projects for each language are listed chronologically, most notable are marked with emoji.
 
