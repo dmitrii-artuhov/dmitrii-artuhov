@@ -41,7 +41,7 @@ Bachelor of  Science in Computer Science
 
 - **University Labs** (unfortunately, I cannot put them publicly): 1st year at HSE Spb labs which included unit-testing library written using macros, widgets hierarchical collection with virtual methods, tic-tac-toe terminal game with dynamically loaded graphics library, custom unique and shared pointers, TCP-server that emulated bank transactions between arbitrary number of connected users, BMP images parser, custom vector with allocators.
 
-- [Gengo](https://github.com/dmitrii-artuhov/gengo): my high-school experience of writing non-contest code in C++. A very bad programming language. My code here sucks, but I still put it here for the record purposes. Btw, "gengo" means "language" in Japanese 🧐.
+- [Gengo](https://github.com/dmitrii-artuhov/gengo): my high-school experience of writing non-contest code in C++. A very bad programming language. My code here sucks, but I still put it here for the record purposes. Btw, "gengo" means "language" in Japanese 🤓.
 
 
 ### 🔸 Java & Kotlin
