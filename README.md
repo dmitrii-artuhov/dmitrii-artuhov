@@ -31,7 +31,7 @@ Bachelor of  Science in Computer Science
 
 ### 💙 C++
 
-- ❗ [Weak Memory Models Simulator](https://github.com/dmitrii-artuhov/weak-memory-models-simulator): a 3rd year semester project at CUB of the same named course. This course tought me differences between hardware & pl memory models (MM) and concepts around weak MM in general. In this project I implemented 4 memory models: SC, TSO, PSO, Strong RA, interpretors for them, and lexer + parser for a simple programming language to write multithreaded programs with.
+- ❗ [Weak Memory Models Simulator](https://github.com/dmitrii-artuhov/weak-memory-models-simulator): a 3rd year semester project at CUB of the same named course. This course tought me differences between hardware & pl memory models (MM) and concepts around weak MM in general (such as transitive and declarative memory model definitions, execution graph consistency criteria, OOTA problem, and different exisiting memory models, such as RC11). In this project I implemented 4 memory models: SC, TSO, PSO, Strong RA, interpretors for them, and lexer + parser for a simple programming language to write multithreaded programs with.
 
 - ❗ [PNG Decoder](https://github.com/dmitrii-artuhov/PNG-decoder): decoder that reads PNG image binary data from disk and parses it as RGB array. It was a part of "Effective C++" course held by Spectral:Technologies during 2nd year of education at HSE (SPb).
 
