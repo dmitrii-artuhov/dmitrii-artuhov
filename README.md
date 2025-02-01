@@ -22,7 +22,7 @@ Bachelor of  Science in Computer Science
 
 ## 👩🏻‍💻 Work
 
-> Most relevant work experience is listed in my CV above.
+> Most relevant work experience is listed in my CV above or on linkedin.
 
 ## 🛠️ Projects
 
